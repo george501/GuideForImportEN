@@ -16,7 +16,6 @@ To save your requests, you will need to register or log into an existing profile
 
 ## Create new request
 
-Для того чтобы создать нужный нам запрос, нажмите на кнопку **New** в верхней части приложения. Выбираем нужный нам формат (HTTP), перед нами открывается окно с нашим запросом. Нам необходимо также изменить формат запроса с **GET** на **POST**. В URL введите https://example.com/api/v1.1/profiles/get/, где вместо _example.com/_ укажите ссылку на ваш URL.
 In order to create the request, click on the **New** button at the top of the application. You can select the format you need (HTTP), a window with our future request opens. It's also necessary to change the request format from **GET** to **POST**. In the URL, enter https://example.com/api/v1.1/profiles/get/, where instead of _example.com/_, enter the link to your URL API.
 
 ![4](https://github.com/george501/GuideForImport/blob/main/Ap5CoB5b64%20(1).gif?raw=true)
